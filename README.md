@@ -35,20 +35,6 @@ A decentralized web application (DApp) built to ensure **complete transparency i
 
 ---
 
-📁 Project Structure
-
-CharityDonation/
-├── Components/
-├── Context/
-├── contracts/
-├── pages/
-├── scripts/
-├── styles/
-├── .env.local
-├── hardhat.config.js
-├── package.json
-
----
 
 🧪 Setup & Run Locally
 
